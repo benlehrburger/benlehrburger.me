@@ -1,3 +1,2 @@
 # benlehrburger.me
-My first batch of work
-Someday soon will evolve into a personal website
+My first batch of work. Someday soon will evolve into a personal website.
