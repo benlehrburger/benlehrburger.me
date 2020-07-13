@@ -1,0 +1,21 @@
+.decisionai-logo {
+    height: 100px;
+    width: 100px;
+    border: 0;
+    background-image: url(file:///Users/benlehrburger/Desktop/Screen%20Shot%202020-07-13%20at%203.44.20%20AM.png);
+    background-size: 100px;
+    border-radius: 4px;
+    box-shadow: 0 7px 0 #808080;
+    color: #fff;
+    cursor: pointer;
+    margin: 0;
+    outline: 0;
+    transition: all .1s linear;
+}
+.decisionai-logo:hover {
+    transform: scale(1.2)
+}
+.decisionai-logo:active {
+    box-shadow: 0 2px 0 #808080;
+    transform: translateY(5px);
+}

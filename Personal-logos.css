@@ -1,0 +1,35 @@
+.mind-logo {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    display: flex;
+    background-image: url(file:///Users/benlehrburger/Desktop/Screen%20Shot%202020-07-13%20at%203.40.18%20AM.png);
+    background-size: 300px;    
+}
+
+.ai-logo {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    display: flex;
+    background-image: url(file:///Users/benlehrburger/Desktop/Screen%20Shot%202020-07-13%20at%203.37.28%20PM.png);
+    background-size: 100px    
+}
+
+.behav-econ-logo {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    display: flex;
+    background-image: url(file:///Users/benlehrburger/Desktop/Screen%20Shot%202020-07-13%20at%203.38.13%20PM.png);
+    background-size: 100px    
+}
+
+.neuro-logo {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    display: flex;
+    background-image: url(file:///Users/benlehrburger/Desktop/Screen%20Shot%202020-07-13%20at%203.38.25%20PM.png);
+    background-size: 100px    
+}
