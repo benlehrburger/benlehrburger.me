@@ -1,0 +1,20 @@
+#mind-logo {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    display: flex;
+    background-image: url(file:///Users/benlehrburger/Desktop/Screen%20Shot%202020-07-13%20at%203.40.18%20AM.png);
+    background-size: 300px; 
+    cursor: pointer;   
+}
+#mind-text {
+    border: 1px solid rgb(0, 0, 0);
+    display: none;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: 24px;
+    padding: 10px;
+}
+#mind-logo:hover #mind-text {
+    display: flex;
+}

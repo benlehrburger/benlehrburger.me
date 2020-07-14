@@ -1,4 +1,4 @@
-.decisionai-logo {
+#decisionai-logo {
     height: 100px;
     width: 100px;
     border: 0;
@@ -12,10 +12,10 @@
     outline: 0;
     transition: all .1s linear;
 }
-.decisionai-logo:hover {
-    transform: scale(1.2)
+#decisionai-logo:hover {
+    transform: scale(1.2);
 }
-.decisionai-logo:active {
+#decisionai-logo:active {
     box-shadow: 0 2px 0 #808080;
     transform: translateY(5px);
 }
