@@ -1,0 +1,17 @@
+.contact-buttons {
+    height: 50px;
+    width: 50px;
+    border: 0;
+    background-size: 50px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 0;
+    outline: 0;
+    transition: all .1s linear;
+}
+.contact-buttons:hover {
+    opacity: 0.5;
+}
+.contact-buttons:active {
+    opacity: 0.5;
+}
