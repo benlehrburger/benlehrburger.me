@@ -1,7 +1,7 @@
 .school-logo {
-    height: 150px;
-    width: 150px;
+    height: 200px;
+    width: 200px;
     border-radius: 50%;
     display: flex;
-    background-size: 150px;  
+    background-size: 200px;  
 }

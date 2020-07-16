@@ -1,0 +1,65 @@
+/* Decision.ai button */
+#decisionai-logo {
+    height: 150px;
+    width: 150px;
+    border: 0;
+    background-image: url(file:///Users/benlehrburger/Desktop/Screen%20Shot%202020-07-13%20at%203.44.20%20AM.png);
+    background-size: 150px;
+    border-radius: 4px;
+    box-shadow: 0 7px 0 #808080;
+    cursor: pointer;
+    margin: 0;
+    outline: 0;
+    transition: all .1s linear;
+}
+#decisionai-logo:hover {
+    transform: scale(1.2);
+}
+#decisionai-logo:active {
+    box-shadow: 0 2px 0 #808080;
+    transform: translateY(5px);
+}
+
+/* A.I. for Anyone button */
+#AI4A-logo {
+    height: 150px;
+    width: 150px;
+    border: 0;
+    background-image: url(file:///Users/benlehrburger/Desktop/download.jpg);
+    background-size: 150px;
+    border-radius: 4px;
+    box-shadow: 0 7px 0 #110020;
+    cursor: pointer;
+    margin: 0;
+    outline: 0;
+    transition: all .1s linear;
+}
+#AI4A-logo:hover {
+    transform: scale(1.2);
+}
+#AI4A-logo:active {
+    box-shadow: 0 2px 0 #110020;
+    transform: translateY(5px);
+}
+
+/* Dartmouth Phillab button */
+#dartmouth-logo {
+    height: 150px;
+    width: 150px;
+    border: 0;
+    background-image: url(https://logos-download.com/wp-content/uploads/2019/11/Dartmouth_College_Logo.png);
+    background-size: 150px;
+    border-radius: 4px;
+    box-shadow: 0 7px 0 #0B400F;
+    cursor: pointer;
+    margin: 0;
+    outline: 0;
+    transition: all .1s linear;
+}
+#dartmouth-logo:hover {
+    transform: scale(1.2);
+}
+#dartmouth-logo:active {
+    box-shadow: 0 2px 0 #0B400F;
+    transform: translateY(5px);
+}
