@@ -3,7 +3,7 @@
     height: 150px;
     width: 150px;
     border: 0;
-    background-image: url('../../img/DecisionAI-logo.png');
+    background-image: url('../../../img/DecisionAI-logo.png');
     background-size: 150px;
     border-radius: 4px;
     box-shadow: 0 7px 0 #808080;
@@ -25,7 +25,7 @@
     height: 150px;
     width: 150px;
     border: 0;
-    background-image: url("../../../img/AI4A.jpg");
+    background-image: url('../../../img/AI4A.jpg');
     background-size: 150px;
     border-radius: 4px;
     box-shadow: 0 7px 0 #110020;
@@ -47,7 +47,7 @@
     height: 150px;
     width: 150px;
     border: 0;
-    background-image: url('../../img/Dartmouth-logo.png');
+    background-image: url('../../../img/Dartmouth-logo.png');
     background-size: 150px;
     border-radius: 4px;
     box-shadow: 0 7px 0 #0B400F;
